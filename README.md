@@ -14,4 +14,4 @@ Cервер слушает на 3001 порту.
 > curl -X POST http://localhost:3001/app/generate
 
 - Получить запись по ID
-> curl -X GET http://localhost:3001/app/<id>
+> curl -X GET http://localhost:3001/app/id_of_record
